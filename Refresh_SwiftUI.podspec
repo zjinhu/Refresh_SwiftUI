@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'Refresh_SwiftUI'
-s.version          = '0.1.1'
+s.version          = '0.0.1'
 s.summary          = 'Refresh_SwiftUI组件.'
 
 s.description      = <<-DESC
