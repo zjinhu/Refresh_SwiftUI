@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Refresh
+//  Refresh_SwiftUI
 //
 //  Created by iOS on 2023/5/9.
 //
@@ -9,13 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        SimpleList()
     }
 }
 
