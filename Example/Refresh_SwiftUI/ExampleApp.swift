@@ -2,13 +2,13 @@
 //  Refresh_SwiftUIApp.swift
 //  Refresh_SwiftUI
 //
-//  Created by iOS on 2023/5/9.
+//  Created by iOS on 2023/5/12.
 //
 
 import SwiftUI
 
 @main
-struct Refresh_SwiftUIApp: App {
+struct ExampleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

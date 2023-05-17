@@ -1,0 +1,16 @@
+PODS:
+  - Refresh_SwiftUI (0.0.1)
+
+DEPENDENCIES:
+  - Refresh_SwiftUI (from `../`)
+
+EXTERNAL SOURCES:
+  Refresh_SwiftUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Refresh_SwiftUI: 99909e54bda8bf37aa934f47f54e6f7bdca2551d
+
+PODFILE CHECKSUM: a11703fcd7b54805a66faea88cc158c521f2d29d
+
+COCOAPODS: 1.12.1
